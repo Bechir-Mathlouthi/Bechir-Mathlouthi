@@ -1,16 +1,23 @@
-## Hi there 👋
+# Bechir Mathlouthi  
+🌍 **Location:** Tunis, Tunisia  
+📧 **Email:** contact.bechirmathlouthi@gmail.com  
+🔗 [LinkedIn](https://linkedin.com/in/bechir-mathlouthi)  
 
-<!--
-**Bechir-Mathlouthi/Bechir-Mathlouthi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👋 Welcome to My GitHub Profile!  
+I'm a passionate **Data Engineer** with expertise in building scalable, efficient data pipelines, managing big data systems, and leveraging AI to solve real-world challenges.  
 
-Here are some ideas to get you started:
+### 🌟 **About Me**  
+- 📊 Experienced in data integration, ETL, and real-time analytics.  
+- 🧠 Skilled in AI & ML frameworks with hands-on project experience.  
+- ☁️ Proficient with cloud platforms like Azure and GCP.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 **Skills & Technologies**  
+- **Programming:** Python, C++, Java, SQL, JavaScript, Scala.  
+- **Big Data:** Spark, Hadoop, Hive, ELK, Kafka.  
+- **ETL & BI:** Talend, Pentaho, Power BI, Tableau, SSIS, SSAS.  
+- **Cloud:** GCP, Microsoft Azure, Snowflake.  
+- **Tools:** Docker, Kubernetes, Jenkins.  
+
+### 📚 **Pinned Projects**  
+Check out some of my key projects below!  
+
